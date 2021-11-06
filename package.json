@@ -66,7 +66,7 @@
   },
   "devDependencies": {
     "@firebase/testing": "^0.20.11",
-    "@open-wc/building-rollup": "^1.10.0",
+    "@open-wc/building-rollup": "^2.0.1",
     "@testing-library/dom": "^8.7.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@types/google.analytics": "0.0.42",
